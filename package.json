@@ -21,7 +21,7 @@
     "drop-dist": "node tools/drop-dist.js"
   },
   "dependencies": {
-    "vue": "^3.4.31",
+    "vue": "^3.5.12",
     "@idrinth-api-bench/assets": "https://github.com/idrinth-api-bench/assets"
   },
   "devDependencies": {
